@@ -26,6 +26,6 @@
 <details align="left">
 <summary></summary> 
   - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a><br>
-  -  <a href="https://www.flaticon.com/br/icones-gratis/desenvolvimento-web" title="desenvolvimento web ícones">Web development icon created by srip - Flaticon</a>
-<div align="right">This README was made by <a href="https://github.com/mylenaize">LTF</a>.</div>
+  - <a href="https://www.flaticon.com/br/icones-gratis/analise-de-negocio" title="análise de negócio ícones">Análise de negócio ícones criados por Muhammad Atif - Flaticon</a>
+<div align="right">This README was made by <a href="https://github.com/mylenaize">MTF</a>.</div>
 </details>
